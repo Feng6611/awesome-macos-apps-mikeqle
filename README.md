@@ -1,8 +1,10 @@
-# Awesome macOS Apps
+# Awesome macOS Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of Mac apps that are worth installing and still maintained.
 
 Each app gets one factual line, sorted alphabetically within its section. To stay listed, an app has to keep getting updates (the rules are in [CONTRIBUTING.md](CONTRIBUTING.md)), and every link is checked weekly.
+
+Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 
 🆓 Free&nbsp;&nbsp;·&nbsp;&nbsp;🔹 Free plan with a paid upgrade&nbsp;&nbsp;·&nbsp;&nbsp;No mark: paid, usually with a free trial&nbsp;&nbsp;·&nbsp;&nbsp;🔓 Open source (links to the code)
 
@@ -178,6 +180,4 @@ Each app gets one factual line, sorted alphabetically within its section. To sta
 
 Suggestions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first: it explains what gets in, the format, and how entries are kept current.
 
-## License
-
-[CC0 1.0](LICENSE). To the extent possible under law, the maintainer has waived all copyright and related rights to this list.
+The list is dedicated to the public domain under [CC0 1.0](LICENSE).
