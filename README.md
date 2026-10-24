@@ -64,6 +64,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Detailed CPU, memory, disk, network and sensor readings in the menu bar.
 - [Itsycal](https://www.mowglii.com/itsycal/) - Small menu bar calendar with your events. 🆓 [🔓](https://github.com/sfsam/Itsycal)
 - [Stats](https://github.com/exelban/stats) - System monitor for the menu bar: CPU, GPU, memory, disk, network, battery. 🆓 [🔓](https://github.com/exelban/stats)
+- [Vorssaint](https://vorssaint.com/) - Menu bar toolkit with per-app volume, a system monitor, window snapping, clipboard history and more; install only the parts you use (Apple Silicon). 🆓 [🔓](https://github.com/vorssaint/vorssaint-utils)
 
 ## Clipboard and Text Expansion
 
@@ -138,7 +139,7 @@ Last reviewed: 2026-10-25 · [What changed](CHANGELOG.md)
 ## Browsers
 
 - [Brave](https://brave.com/) - Chromium-based browser that blocks ads and trackers by default. 🆓 [🔓](https://github.com/brave/brave-browser)
-- [Firefox](https://www.mozilla.org/firefox/) - Mozilla's browser, with containers and extensive extensions. 🆓
+- [Firefox](https://www.mozilla.org/firefox/) - Mozilla's browser, with containers and extensive extensions. 🆓 [🔓](https://github.com/mozilla-firefox/firefox)
 - [Google Chrome](https://www.google.com/chrome/) - Google's browser, synced with your Google account. 🆓
 - [Orion](https://kagi.com/orion/) - WebKit browser that runs Chrome and Firefox extensions. 🔹
 - [Vivaldi](https://vivaldi.com/) - Chromium-based browser with tab stacks, panels and deep customisation. 🆓
